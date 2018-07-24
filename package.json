@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "YComplex",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "apollo-server": "^2.0.0",
+    "axios": "^0.18.0",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10"
+  }
 }

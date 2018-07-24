@@ -1,0 +1,27 @@
+{
+  "spaces": [
+    {
+      "id": "2",
+      "name": "Project BEST",
+      "description": "Project BEST aims to make the Bank the BEST bank for customers"
+    },
+    {
+      "id": "1",
+      "name": "Simplification",
+      "description": "Simplification will simplify how we serve our customers"
+    }
+  ],
+  "initiatives": [
+    {
+      "id": "1",
+      "name": "Digital Transformation",
+      "space_id": "2"
+    },
+    {
+      "id": "2",
+      "name": "Branch transformation",
+      "space_id": "2"
+    }
+  ],
+  "actions": []
+}
